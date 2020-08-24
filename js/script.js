@@ -623,8 +623,10 @@
 // Pueden tener métodos o propiedades (POO)
 
 // Ejemplo
-const c = console.log
-const plus = (x, y) => x * y
-c(plus(4, 5))
+// const c = console.log
+// const plus = (x, y) => x * y
+// c(plus(4, 5))
+
+console.log("Hola Mundo !")
 
 
